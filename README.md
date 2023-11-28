@@ -7,3 +7,11 @@ Este projeto é uma análise das apólices de uma empresa de seguros fictícia, 
 - Visualização do número de apólices vendidas pelas seguradoras e vendedores
 - A porcentagem de inadimplência por seguradora e vendedor seguida pela quantidade e valor das apólices inadimplentes
 - Modelo de ML que prevê a receita das apólices
+
+## Overview do Dashboard
+
+- Primeira aba:
+![Alt text](aba1.png)
+- Segunda aba:
+![Alt text](aba2.png)
+
